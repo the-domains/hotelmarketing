@@ -1,0 +1,28 @@
+name: hotelmarketing
+favicon: null
+layout_spectrum: 0.07852234598249197
+typography_spectrum: 0.9628323507495224
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8069785521365702
+  lightness: 0.14671475696377456
+  saturation: 0.11635731323622167
+  rhythmicContrast: 0.0727881679777056
+purpose: []
